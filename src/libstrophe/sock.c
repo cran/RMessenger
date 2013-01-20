@@ -1,6 +1,7 @@
 /* sock.c
 ** strophe XMPP client library -- socket abstraction implementation
 **
+** Copyright (C) 2013 Wush Wu <wush978@gmail.com>
 ** Copyright (C) 2005-2009 Collecta, Inc. 
 **
 **  This software is provided AS-IS with no warranty, either express
@@ -35,9 +36,6 @@
 #include <netdb.h>
 #include <fcntl.h>
 #include <arpa/nameser.h>
-#ifdef HAVE_ARPA_NAMESER_COMPAT_H
-#include <arpa/nameser_compat.h>
-#endif
 #include <resolv.h>
 #endif
 

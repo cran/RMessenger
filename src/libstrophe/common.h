@@ -1,6 +1,7 @@
 /* common.h
 ** strophe XMPP client library -- internal common structures
 **
+** Copyright (C) 2013 Wush Wu <wush978@gmail.com>
 ** Copyright (C) 2005-2009 Collecta, Inc. 
 **
 **  This software is provided AS-IS with no warranty, either express or
