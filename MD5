@@ -1,8 +1,8 @@
 7dbb8c1504b16593f444653f6c893eca *CMakeLists.txt
-5f212a521faa60cdd2f6d6932b6a03bd *DESCRIPTION
+e91dd235da69566b1e78bb346f5d1c55 *DESCRIPTION
 b1400895d00e1f632a5e5c7b362d63c5 *NAMESPACE
 fc4da9303abc89c79287aba09c02d3c3 *R/facebookMessage.function.R
-c40be613aaea765387284fa199d38c81 *R/sendXMPPMessage.function.R
+5092d8eba4680ad57ed9f70f8244b220 *R/sendXMPPMessage.function.R
 26f554216e0a60acafc8e02cc611fa7a *R/zzz.R
 126a0a626aeaff48089944d2a1dc46da *README.md
 b7754f9e1b57a9e5b7c0ab0b6df7afe9 *configure
@@ -12,8 +12,8 @@ d32239bcb673463ab874e80d47fae504 *inst/LICENSE.txt
 d41d8cd98f00b204e9800998ecf8427e *install-sh
 6a3470db0f9623bfbad738030d0ddb21 *man/XMPP_LEVEL_DEBUG.Rd
 a5dc9f231077c766bf1fcb457e80d0d9 *man/facebookMessage.Rd
-58d17f27dd591c4b88b57137b839f5db *man/sendXMPPMessage.Rd
-4907531f0783116495b92003f8b993b5 *src/Makevars.in
+12cb003a7780287d4dd9af3828c45043 *man/sendXMPPMessage.Rd
+16bd634d08311bf5a23f33e8beaf1c4e *src/Makevars.in
 74465e7012a0e168024edfb76990bbc8 *src/Makevars.win
 8c6491a5667103f5092e7090e14c62a7 *src/XMPP.cpp
 8c394e2ba05828468f7fff79f2cc6f08 *src/XMPP.h
@@ -42,7 +42,7 @@ d304a04db9722b8e9996f1dd9f54fe8a *src/libstrophe/sasl.c
 229b50648975746cf7dd08263fef56af *src/libstrophe/sha1.c
 ee1bdd4e2a8f24c720869ec72536bf21 *src/libstrophe/sha1.h
 e0a85365ca48960319e73c35ba97a7f2 *src/libstrophe/snprintf.c
-32daa28a94a9d5a0e51b20112cd76222 *src/libstrophe/sock.c
+17cbc66b1c2ef98f6cce21dbde69edf5 *src/libstrophe/sock.c
 675cbcdae7b05779f8d7c33570977c96 *src/libstrophe/sock.h
 bbf1c5d36bcaeb7068b6f4d28d867e3a *src/libstrophe/stanza.c
 f0557bd50d934061f94de610b269ba25 *src/libstrophe/thread.c
